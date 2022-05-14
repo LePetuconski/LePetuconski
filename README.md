@@ -1,3 +1,5 @@
+![lofi](https://user-images.githubusercontent.com/74278997/168444244-f1819593-471d-4db5-b000-f954cc0c1c0a.gif)
+
 My name is Letícia Petuconski, I'm from Brazil 🇧🇷. I am currently studying Data Science. I started programming in 2019, I'm a Full Stack Developer 👩🏻‍💻.
 Always looking to learn more and seek new challenges.
 
